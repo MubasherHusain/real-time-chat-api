@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LRjHjCwAMxdUejBRkZ2OIrW+Lo8xoky/PcmRUVEH4y4=",
+  "Source": "RealTimeChatApp",
+  "BasePath": "_content/RealTimeChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
